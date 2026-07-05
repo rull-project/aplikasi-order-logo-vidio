@@ -1,0 +1,6 @@
+{
+  "name": "AI Design Studio",
+  "description": "SaaS portal diskusi dan pelacakan real-time untuk pemesanan jasa desain logo dan editing video profesional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
